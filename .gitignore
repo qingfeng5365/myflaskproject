@@ -1,5 +1,5 @@
 venv/
-__pycache___
+__pycache__/_
 *.log
 *.pem
 *.key
