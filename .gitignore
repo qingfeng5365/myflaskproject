@@ -1,0 +1,7 @@
+venv/
+__pycache___
+*.log
+*.pem
+*.key
+*.crt
+
